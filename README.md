@@ -87,7 +87,9 @@ Each daily log may include:
 Example format:
 
 ```
-Date: YYYY-MM-DD
+Day: DD
+
+Time Spent: h m
 
 Topics:
 
@@ -99,7 +101,6 @@ Key Learnings:
 
 Notes:
 
-Questions:
 ```
 
 ---
@@ -108,6 +109,7 @@ Questions:
 
 Labs and exercises may come from:
 
+* Letsdefend
 * TryHackMe
 * Hack The Box
 * Personal DFIR labs
