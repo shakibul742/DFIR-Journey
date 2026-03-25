@@ -89,8 +89,6 @@ Example format:
 ```
 Day: DD
 
-Time Spent: h m
-
 Topics:
 
 Tools:
