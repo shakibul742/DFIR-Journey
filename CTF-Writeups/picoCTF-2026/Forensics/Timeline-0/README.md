@@ -1,7 +1,9 @@
 # picoCTF 2026 - Timeline 0 Writeup
 
 **Author:** LT "syreal" Jones
+
 **Category:** Forensics
+
 **Difficulty:** Easy (100 pts)
 
 ---
