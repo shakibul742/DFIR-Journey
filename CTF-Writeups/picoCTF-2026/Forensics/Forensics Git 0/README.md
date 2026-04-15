@@ -1,7 +1,9 @@
 # picoCTF 2026 - Forensics Git 0 Writeup
 
 **Author:** LT "syreal" Jones
+
 **Category:** Forensics
+
 **Difficulty:** Medium (200 pts)
 
 ---
