@@ -137,7 +137,7 @@ Date:   Wed Nov 19 09:20:05 2025 +0000
     Remove flag
 
 @@ -1 +0,0 @@
--picoCTF{g17_r3m3mb3r5_d4ddf904}
+-picoCTF{g17_r3m3mb3**_****f904}
 ```
 
 ### Analysis
