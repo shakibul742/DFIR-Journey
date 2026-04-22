@@ -143,7 +143,7 @@ cat COMMIT_EDITMSG
 #### Output
 
 ```
-Wrap this phrase in the flag format: g17_1n_7h3_d15k_041217d8
+Wrap this phrase in the flag format: g17_**_7h3_****_041217d8
 ```
 
 ---
