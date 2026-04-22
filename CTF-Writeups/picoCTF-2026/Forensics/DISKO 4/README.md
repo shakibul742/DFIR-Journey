@@ -128,7 +128,6 @@ cat dont-delete
 
 ```
 Here is your flag
-picoCTF{d3l_d0n7_h1d3_w3ll_fe34c2cb}
 ```
 
 ---
