@@ -124,7 +124,7 @@ icat partition4.img 4945
 #### Output
 
 ```
-NzFtMzExbjNfMHU3MTEzcl9oM3JfNDNhMmU3YWYK
+NzFtMzExbj***HU3MTEzcl*****fNDNhMmU3YWYK
 ```
 
 ---
@@ -134,7 +134,7 @@ NzFtMzExbjNfMHU3MTEzcl9oM3JfNDNhMmU3YWYK
 The extracted string is Base64 encoded.
 
 ```bash
-echo "NzFtMzExbjNfMHU3MTEzcl9oM3JfNDNhMmU3YWYK" | base64 -d
+echo "NzFtMzExbj***HU3MTEzcl*****fNDNhMmU3YWYK" | base64 -d
 ```
 
 ---
