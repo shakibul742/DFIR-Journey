@@ -158,13 +158,13 @@ icat partition4.img 32716
 #### Output
 
 ```
-NTczNDE3aDEzcl83aDRuXzdoM18xNDU3XzU4NTI3YmIyMjIK
+NTczNDE3aDE*****aDRuXzdoM18xNDU3Xz*****3YmIyMjIK
 ```
 
 Decode Base64:
 
 ```bash
-echo "NTczNDE3aDEzcl83aDRuXzdoM18xNDU3XzU4NTI3YmIyMjIK" | base64 -d
+echo "NTczNDE3aDE*****aDRuXzdoM18xNDU3Xz*****3YmIyMjIK" | base64 -d
 ```
 
 ---
