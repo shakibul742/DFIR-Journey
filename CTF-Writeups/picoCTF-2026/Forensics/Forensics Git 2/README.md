@@ -140,7 +140,7 @@ git show e80b38b3322a5ba32ac07076ef5eeb4a59449875
 
 ```
 +Rex: Meet at the old arcade basement for the secret hideout.
-+Jay: Ask Rusty at the door and use password picoCTF{g17_r35cu3_16ac6bf3}.
++Jay: Ask Rusty at the door and use password picoCTF{g17_r35c**_****6bf3}.
 +Rex: Bring the decoder map so we can plan the route.
 ```
 
