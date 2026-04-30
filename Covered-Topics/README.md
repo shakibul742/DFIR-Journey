@@ -8,8 +8,8 @@ This directory is the main index for the DFIR topics documented in this reposito
 | --- | --- |
 | Purpose | Organize topic-wise DFIR study progress and notes |
 | Main topic folders | 7 |
-| Documented core tracks | 6 |
-| Network preparation tracks | 6 prerequisite topic folders |
+| Documented core tracks | 7 |
+| Network Forensics status | Completed |
 | Standard topic contents | Coverage, topics covered, learnings, tools, and commands |
 
 ## Main Folder Overview
@@ -22,7 +22,7 @@ This directory is the main index for the DFIR topics documented in this reposito
 | [Linux Memory Forensics](<./Linux Memory Forensics/README.md>) | Day 09, Day 15 to Day 19 | Linux memory acquisition and memory analysis workflow | Documented |
 | [Digital Forensics on Linux](<./Digital Forensics on Linux/README.md>) | Day 10 to Day 14 | Linux live response, file systems, and host artifacts | Documented |
 | [Windows Memory Forensics](<./Windows Memory Forensics/README.md>) | Day 20 to Day 27 | Windows memory capture and investigation workflow | Documented |
-| [Network Forensics](<./Network Forensics/README.md>) | Prerequisite stage | Foundational networking topics prepared before the main track starts | In preparation |
+| [Network Forensics](<./Network Forensics/README.md>) | Day 28 to Day 50, Day 52 to Day 54 | Network fundamentals, protocols, packet analysis, network logs, Detecting Web Attacks, traffic capture, IDS detection, NetFlow, and TLS/SSL analysis | Completed |
 
 ## What Each Topic Folder Contains
 
@@ -34,4 +34,4 @@ This directory is the main index for the DFIR topics documented in this reposito
 
 ## Note on Network Forensics
 
-The main `Network Forensics` track has not started yet. That folder is currently being used to organize prerequisite networking topics before the primary network forensics content is documented.
+The `Network Forensics` track is now completed and includes both the prerequisite networking foundation and the main network forensics study path.
