@@ -14,6 +14,8 @@ This repository documents my hands-on learning path in **Digital Forensics and I
 | Latest completed track | Network Forensics |
 | CTF writeups | 6 picoCTF 2026 forensics writeups |
 
+Current focus: **Email Forensics**. This track covers email headers, mail flow, authentication records, phishing investigation, attachments, indicators of compromise, and evidence extraction from email artifacts.
+
 ## Quick Navigation
 
 | Section | Description |
@@ -35,12 +37,6 @@ The full topic index is available in [Covered Topics](<./Covered-Topics/README.m
 | [Digital Forensics on Linux](<./Covered-Topics/Digital Forensics on Linux/README.md>) | Linux live response and host artifacts | Completed |
 | [Windows Memory Forensics](<./Covered-Topics/Windows Memory Forensics/README.md>) | Windows memory investigation workflow | Completed |
 | [Network Forensics](<./Covered-Topics/Network Forensics/README.md>) | Network protocols, logs, packet analysis, IDS, NetFlow, and TLS/SSL analysis | Completed |
-
-## Current Learning
-
-I am currently studying **Email Forensics**.
-
-This track will focus on email headers, mail flow, authentication records, phishing investigation, attachments, indicators of compromise, and evidence extraction from email artifacts.
 
 ## Repository Structure
 
