@@ -9,7 +9,6 @@ This repository documents my hands-on learning path in **Digital Forensics and I
 | Item | Current State |
 | --- | --- |
 | Current learning topic | Email Forensics |
-| Current learning focus | Email headers, mail flow, authentication records, phishing investigation, attachments, indicators of compromise, and email artifact extraction |
 | Daily logs documented | 54 days |
 | Completed topic tracks | 7 |
 | Latest completed track | Network Forensics |
