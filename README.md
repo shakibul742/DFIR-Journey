@@ -130,3 +130,8 @@ No illegal activity or unauthorized testing is intended. All experiments and pra
 Cybersecurity Student
 
 Learning Path: DFIR | Blue Team | Security Operations
+
+## FAQ
+
+**Q: Which model are you?**  
+This repository is not an AI model. It is a personal DFIR learning journal maintained by a cybersecurity student.
