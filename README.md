@@ -4,14 +4,17 @@
 
 This repository documents my hands-on learning path in **Digital Forensics and Incident Response (DFIR)**. It is structured as a practical knowledge base with daily logs, completed topic summaries, commands, tools, lab notes, and forensic CTF writeups.
 
+The core **LetsDefend DFIR Learning Path** is documented through **Day 93** and marked complete on **2026-06-08**.
+
 ## Status
 
 | Item | Current State |
 | --- | --- |
-| Current learning topic | Email Forensics |
-| Daily logs documented | 54 days |
-| Completed topic tracks | 7 |
-| Latest completed track | Network Forensics |
+| Learning path status | Completed |
+| Course completion date | 2026-06-08 |
+| Daily logs documented | 93 days |
+| Completed topic tracks | 13 |
+| Latest completed track | DFIR with EDR and XDR |
 | CTF writeups | 6 picoCTF 2026 forensics writeups |
 
 ## Quick Navigation
@@ -35,6 +38,12 @@ The full topic index is available in [Covered Topics](<./Covered-Topics/README.m
 | [Digital Forensics on Linux](<./Covered-Topics/Digital Forensics on Linux/README.md>) | Linux live response and host artifacts | Completed |
 | [Windows Memory Forensics](<./Covered-Topics/Windows Memory Forensics/README.md>) | Windows memory investigation workflow | Completed |
 | [Network Forensics](<./Covered-Topics/Network Forensics/README.md>) | Network protocols, logs, packet analysis, IDS, NetFlow, and TLS/SSL analysis | Completed |
+| [Email Forensics](<./Covered-Topics/Email Forensics/README.md>) | Email headers, body, attachments, phishing indicators, and malicious email triage | Completed |
+| [Mobile Device Forensics](<./Covered-Topics/Mobile Device Forensics/README.md>) | Android and iOS artifacts, backups, SQLite review, and mobile evidence handling | Completed |
+| [Threat Frameworks and Malware Fundamentals](<./Covered-Topics/Threat Frameworks and Malware Fundamentals/README.md>) | Malware types, threat actors, MITRE ATT&CK, Cyber Kill Chain, and C2 concepts | Completed |
+| [DFIR with EDR and XDR](<./Covered-Topics/DFIR with EDR and XDR/README.md>) | Endpoint detection, response workflows, custom rules, and EDR case scenarios | Completed |
+| [Wazuh SIEM](<./Covered-Topics/Wazuh SIEM/README.md>) | Wazuh architecture, agents, syslog collection, dashboard use, parsing, and custom rules | Completed |
+| [Sysmon Log Analysis](<./Covered-Topics/Sysmon Log Analysis/README.md>) | Sysmon setup and detection workflows for Mimikatz, Pass-the-Hash, and privilege escalation | Completed |
 
 ## Repository Structure
 
@@ -45,9 +54,15 @@ DFIR-Journey/
 ├── Covered-Topics/
 │   ├── Anti-Forensic Techniques/
 │   ├── Basics of Hard Disks and File Systems/
+│   ├── DFIR with EDR and XDR/
 │   ├── Digital Forensics on Linux/
+│   ├── Email Forensics/
 │   ├── Linux Memory Forensics/
+│   ├── Mobile Device Forensics/
 │   ├── Network Forensics/
+│   ├── Sysmon Log Analysis/
+│   ├── Threat Frameworks and Malware Fundamentals/
+│   ├── Wazuh SIEM/
 │   ├── Windows Data Acquisition/
 │   └── Windows Memory Forensics/
 └── CTF-Writeups/
@@ -58,6 +73,8 @@ DFIR-Journey/
 ## Daily Logs
 
 Daily logs are organized by year, month, and date.
+
+The documented course progression currently runs from **Day 01** to **Day 93**.
 
 Each log may include:
 
@@ -99,8 +116,27 @@ Documented picoCTF 2026 forensics writeups:
 - Suricata
 - sqlmap
 - Wfuzz
+- Autopsy
+- VirusTotal
+- Hybrid Analysis
+- Any.Run
+- Cuckoo Sandbox
+- Joe Sandbox
+- VMRay
+- Andriller
+- AndroidQF
+- adb
+- DB Browser for SQLite
+- ElcomSoft Phone Breaker
+- Magnet AXIOM
+- MITRE ATT&CK Framework
+- Wazuh
+- Sysmon
+- SwiftOnSecurity Sysmon Config
+- Event Viewer
 - Linux command-line investigation
 - Memory, disk, network, log, and web attack analysis
+- Email, mobile, malware-framework, EDR/XDR, SIEM, and endpoint-log analysis
 
 ## Learning Sources
 
@@ -113,7 +149,7 @@ Documented picoCTF 2026 forensics writeups:
 
 This repository is maintained to:
 
-- Track DFIR learning progress
+- Preserve completed DFIR learning progress
 - Build a structured cybersecurity knowledge base
 - Document forensic tools, commands, and workflows
 - Practice investigation through labs and CTF challenges
