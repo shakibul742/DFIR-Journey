@@ -13,7 +13,7 @@ The core **LetsDefend DFIR Learning Path** is documented through **Day 93** and 
 | Learning path status | Completed |
 | Course completion date | 2026-06-08 |
 | Daily logs documented | 93 days |
-| Completed topic tracks | 13 |
+| Completed topic tracks | 12 |
 | Latest completed track | DFIR with EDR and XDR |
 | CTF writeups | 6 picoCTF 2026 forensics writeups |
 
