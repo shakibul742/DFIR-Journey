@@ -1,4 +1,4 @@
-# Wazuh SIEM
+# Wazuh
 
 ## Coverage
 

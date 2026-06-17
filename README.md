@@ -13,8 +13,8 @@ The core **LetsDefend DFIR Learning Path** is documented through **Day 93** and 
 | Learning path status | Completed |
 | Course completion date | 2026-06-08 |
 | Daily logs documented | 93 days |
-| Completed topic tracks | 13 |
-| Latest completed track | DFIR with EDR and XDR |
+| Completed topic tracks | 12 |
+| Latest completed track | DFIR with EDR |
 | CTF writeups | 6 picoCTF 2026 forensics writeups |
 
 ## Quick Navigation
@@ -34,16 +34,15 @@ The full topic index is available in [Covered Topics](<./Covered-Topics/README.m
 | [Basics of Hard Disks and File Systems](<./Covered-Topics/Basics of Hard Disks and File Systems/README.md>) | Storage fundamentals and file systems | Completed |
 | [Windows Data Acquisition](<./Covered-Topics/Windows Data Acquisition/README.md>) | Windows evidence acquisition and integrity | Completed |
 | [Anti-Forensic Techniques](<./Covered-Topics/Anti-Forensic Techniques/README.md>) | Evidence hiding, destruction, and anti-forensic behavior | Completed |
-| [Linux Memory Forensics](<./Covered-Topics/Linux Memory Forensics/README.md>) | Linux memory capture and analysis | Completed |
 | [Digital Forensics on Linux](<./Covered-Topics/Digital Forensics on Linux/README.md>) | Linux live response and host artifacts | Completed |
 | [Windows Memory Forensics](<./Covered-Topics/Windows Memory Forensics/README.md>) | Windows memory investigation workflow | Completed |
+| [Linux Memory Forensics](<./Covered-Topics/Linux Memory Forensics/README.md>) | Linux memory capture and analysis | Completed |
 | [Network Forensics](<./Covered-Topics/Network Forensics/README.md>) | Network protocols, logs, packet analysis, IDS, NetFlow, and TLS/SSL analysis | Completed |
 | [Email Forensics](<./Covered-Topics/Email Forensics/README.md>) | Email headers, body, attachments, phishing indicators, and malicious email triage | Completed |
-| [Mobile Device Forensics](<./Covered-Topics/Mobile Device Forensics/README.md>) | Android and iOS artifacts, backups, SQLite review, and mobile evidence handling | Completed |
-| [Threat Frameworks and Malware Fundamentals](<./Covered-Topics/Threat Frameworks and Malware Fundamentals/README.md>) | Malware types, threat actors, MITRE ATT&CK, Cyber Kill Chain, and C2 concepts | Completed |
-| [DFIR with EDR and XDR](<./Covered-Topics/DFIR with EDR and XDR/README.md>) | Endpoint detection, response workflows, custom rules, and EDR case scenarios | Completed |
-| [Wazuh SIEM](<./Covered-Topics/Wazuh SIEM/README.md>) | Wazuh architecture, agents, syslog collection, dashboard use, parsing, and custom rules | Completed |
-| [Sysmon Log Analysis](<./Covered-Topics/Sysmon Log Analysis/README.md>) | Sysmon setup and detection workflows for Mimikatz, Pass-the-Hash, and privilege escalation | Completed |
+| [Android Forensics](<./Covered-Topics/Android Forensics/README.md>) | Android file systems, locked devices, evidence sources, and mobile forensic tools | Completed |
+| [iOS Forensics](<./Covered-Topics/iOS Forensics/README.md>) | iOS file systems, locked backups, iCloud data, backup files, and SQLite artifacts | Completed |
+| [Understanding Malware](<./Covered-Topics/Understanding Malware/README.md>) | Malware types, threat actors, MITRE ATT&CK, Cyber Kill Chain, and C2 concepts | Completed |
+| [DFIR with EDR](<./Covered-Topics/DFIR with EDR/README.md>) | Endpoint detection, XDR/EDR threat analysis, custom rules, Wazuh, and endpoint log review | Completed |
 
 ## Repository Structure
 
@@ -52,19 +51,21 @@ DFIR-Journey/
 ├── Daily-Logs/
 │   └── 2026/
 ├── Covered-Topics/
-│   ├── Anti-Forensic Techniques/
 │   ├── Basics of Hard Disks and File Systems/
-│   ├── DFIR with EDR and XDR/
-│   ├── Digital Forensics on Linux/
-│   ├── Email Forensics/
-│   ├── Linux Memory Forensics/
-│   ├── Mobile Device Forensics/
-│   ├── Network Forensics/
-│   ├── Sysmon Log Analysis/
-│   ├── Threat Frameworks and Malware Fundamentals/
-│   ├── Wazuh SIEM/
 │   ├── Windows Data Acquisition/
-│   └── Windows Memory Forensics/
+│   ├── Anti-Forensic Techniques/
+│   ├── Digital Forensics on Linux/
+│   ├── Windows Memory Forensics/
+│   ├── Linux Memory Forensics/
+│   ├── Network Forensics/
+│   ├── Email Forensics/
+│   ├── Android Forensics/
+│   ├── iOS Forensics/
+│   ├── Understanding Malware/
+│   └── DFIR with EDR/
+│       ├── XDR-EDR Threat Analysis and Custom Rule/
+│       ├── Wazuh/
+│       └── Sysmon Log Analysis/
 └── CTF-Writeups/
     └── picoCTF-2026/
         └── Forensics/
@@ -136,7 +137,7 @@ Documented picoCTF 2026 forensics writeups:
 - Event Viewer
 - Linux command-line investigation
 - Memory, disk, network, log, and web attack analysis
-- Email, mobile, malware-framework, EDR/XDR, SIEM, and endpoint-log analysis
+- Email, Android, iOS, malware-framework, EDR/XDR, SIEM, and endpoint-log analysis
 
 ## Learning Sources
 

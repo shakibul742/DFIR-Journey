@@ -1,4 +1,4 @@
-# DFIR with EDR and XDR
+# XDR/EDR Threat Analysis & Custom Rule
 
 ## Coverage
 

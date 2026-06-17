@@ -2,13 +2,14 @@
 
 ## Coverage
 
-- Foundation days covered: Day 28 to Day 48
+- Foundation coverage: Network Fundamentals previously done; Day 28 to Day 48 documented here
 - Main track days covered: Day 49, Day 50, Day 52 to Day 54
 - Total tracked days: 26
 - Status: Completed
 
 ## Topics Covered
 
+- Network Fundamentals (previously done)
 - Network Fundamentals II
 - Network Protocols
 - Network Protocols - 2
@@ -27,6 +28,7 @@
 
 | Area | Coverage | Focus Area | Status |
 | --- | --- | --- | --- |
+| Network Fundamentals | Previously done | Foundational networking concepts required before packet and log analysis | Completed earlier |
 | [Network Fundamentals II](<./Network Fundamentals II/README.md>) | Day 28 to Day 30 | Core networking concepts, VLAN, VPN, OSI, ARP, IP, ICMP, and routing | Documented |
 | [Network Protocols](<./Network Protocols/README.md>) | Day 31 to Day 34 | TCP, UDP, DNS, and Telnet fundamentals | Documented |
 | [Network Protocols - 2](<./Network Protocols - 2/README.md>) | Day 35 | FTP, SSH, HTTP, and DHCP basics | Documented |
