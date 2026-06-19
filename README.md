@@ -48,9 +48,16 @@ The full topic index is available in [Covered Topics](<./Covered-Topics/README.m
 
 ```text
 DFIR-Journey/
+├── README.md
 ├── Daily-Logs/
 │   └── 2026/
+│       ├── 03 - March/
+│       ├── 04 - April/
+│       ├── 05 - May/
+│       └── 06 - June/
+│           └── YYYY-MM-DD.md
 ├── Covered-Topics/
+│   ├── README.md
 │   ├── Basics of Hard Disks and File Systems/
 │   ├── Windows Data Acquisition/
 │   ├── Anti-Forensic Techniques/
@@ -58,6 +65,12 @@ DFIR-Journey/
 │   ├── Windows Memory Forensics/
 │   ├── Linux Memory Forensics/
 │   ├── Network Forensics/
+│   │   ├── Network Fundamentals II/
+│   │   ├── Network Protocols/
+│   │   ├── Network Protocols - 2/
+│   │   ├── Network Packet Analysis/
+│   │   └── Network Log Analysis/
+│   │       └── Detecting Web Attacks/
 │   ├── Email Forensics/
 │   ├── Android Forensics/
 │   ├── iOS Forensics/
@@ -69,6 +82,12 @@ DFIR-Journey/
 └── CTF-Writeups/
     └── picoCTF-2026/
         └── Forensics/
+            ├── DISKO 4/
+            ├── Forensics Git 0/
+            ├── Forensics Git 1/
+            ├── Forensics Git 2/
+            ├── Timeline-0/
+            └── Timeline-1/
 ```
 
 ## Daily Logs
